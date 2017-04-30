@@ -30,10 +30,10 @@
 
         <TextView
             android:id="@+id/textView3"
-            android:textSize="67dp"
+            android:textSize="69dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_weight="0.64"
+            android:layout_weight="1.64"
             android:text="Bla naresh krupal" />
     </LinearLayout>
 
