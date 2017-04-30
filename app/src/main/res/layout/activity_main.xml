@@ -35,6 +35,13 @@
             android:layout_height="wrap_content"
             android:layout_weight="1.64"
             android:text="Bla naresh krupal" />
+        <TextView
+            android:id="@+id/textView4"
+            android:textSize="67dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.64"
+            android:text="raju kalagiri" />
     </LinearLayout>
 
 </android.support.constraint.ConstraintLayout>
