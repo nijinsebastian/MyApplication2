@@ -34,7 +34,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="0.64"
-            android:text="Bla" />
+            android:text="Bla naresh krupal" />
     </LinearLayout>
 
 </android.support.constraint.ConstraintLayout>
